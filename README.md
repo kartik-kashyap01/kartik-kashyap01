@@ -67,11 +67,7 @@ A task management application built with React.
 
 **Tech:** React • JavaScript • Tailwind CSS • Vite
 
-### 🎵 Music Player
 
-A web-based music player built using JavaScript.
-
-**Tech:** HTML • CSS • JavaScript
 
 ### 🐍 Snake Game
 
@@ -115,8 +111,8 @@ You can explore my repositories to see my projects, experiments and learning jou
 
 ## 🤝 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: YOUR_LINKEDIN_URL
+* GitHub: https://github.com/kartik-kashyap01
+* LinkedIn: https://www.linkedin.com/in/kartik-kashyap-5797b4382/
 
 ---
 
